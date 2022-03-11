@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StackQueue
+namespace StackAndQueue
 {
     class Stack
     {
@@ -64,5 +64,6 @@ namespace StackQueue
                 temp = temp.next;
             }
         }
+
     }
 }
