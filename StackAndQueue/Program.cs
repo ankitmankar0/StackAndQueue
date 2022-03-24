@@ -3,7 +3,7 @@
 namespace StackAndQueue
 
 {
-    class Program
+   class Program
     {
         static void Main(string[] args)
         {
@@ -24,7 +24,7 @@ namespace StackAndQueue
                     Console.WriteLine("Enter a valid option");
                     break;
             }
-            Console.ReadLine();
+                Console.ReadLine();
         }
     }
 }
